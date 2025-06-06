@@ -1,7 +1,4 @@
 # expanded-flutter-architecture
-
-# สรุปสถาปัตยกรรม Flutter (Flutter Architectural Overview)
-
 ---
 
 # 🏗️ สรุปสถาปัตยกรรมของ Flutter (Flutter Architecture)
